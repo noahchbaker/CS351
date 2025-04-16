@@ -1,0 +1,6 @@
+Project 3
+
+Read pages 241-244 in the textbook. That area contains pseudocode for the backtracking algorithm for the 0-1 Knapsack problem.
+
+Phase 1. Implement it.
+Phase 2. Turn in the same thing as you did for project 2, but turn it in on Canvas. You might note that this is recursively the same work as in project 1, which is the base case. You are welcome.

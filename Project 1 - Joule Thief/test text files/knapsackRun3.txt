@@ -1,0 +1,10 @@
+3
+24
+65
+
+Items in the Solution:
+grape 30 7
+puppy 25 12
+tangerine 10 5
+
+//test run pre-sorting; this is how the final product from main should look

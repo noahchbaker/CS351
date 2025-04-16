@@ -1,0 +1,11 @@
+5
+72
+535
+Number of Calculated Matrix Entries:1983
+
+Items in the Solution:
+q 43 16
+n 118 14
+g 132 17
+c 77 5
+a 165 20

@@ -1,0 +1,8 @@
+2
+25
+190
+Number of Calculated Matrix Entries:88
+
+Items in the Solution:
+kitchensink 140 20
+orange 50 5

@@ -1,0 +1,10 @@
+5
+72
+535
+
+Items in the Solution:
+c 77 5
+n 118 14
+a 165 20
+g 132 17
+q 43 16

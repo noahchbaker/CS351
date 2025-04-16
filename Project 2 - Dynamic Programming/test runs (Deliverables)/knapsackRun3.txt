@@ -1,0 +1,9 @@
+3
+24
+396
+Number of Calculated Matrix Entries:141
+
+Items in the Solution:
+h 66 8
+d 177 10
+a 153 6

@@ -1,0 +1,12 @@
+Optimal Knapsack Items: 
+1126 79 2
+1127 113 4
+1166 189 18
+1144 126 16
+1129 179 26
+1124 99 16
+1134 99 17
+
+Number of knapsack items: 7
+Total weight: 99 lbs
+Total profit: 884 pesos
